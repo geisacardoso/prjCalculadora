@@ -1,0 +1,22 @@
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe.config
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.pdb
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.Properties.Resources.resources
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.csproj.GenerateResource.Cache
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.exe
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.pdb
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormProgramador.resources
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormCalculadora.resources
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormTemperatura.resources
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe.config
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\bin\Debug\prjCalculadora2J.pdb
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.csprojAssemblyReference.cache
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormTemperatura.resources
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormCalculadora.resources
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormProgramador.resources
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.Properties.Resources.resources
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.csproj.GenerateResource.cache
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.csproj.CoreCompileInputs.cache
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.exe
+C:\Users\Geisa Cardoso\source\repos\prjCalculadora\prjCalculadora2J\obj\Debug\prjCalculadora2J.pdb
